@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30061701157",
+    "project_id": "meta-11fab",
+    "storage_bucket": "meta-11fab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30061701157:android:2e3fac88cdd68027aeb7cc",
+        "android_client_info": {
+          "package_name": "com.example.meta_news"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYObhW00H_VAOjvHCuwWpAXrrUUiTfp6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
